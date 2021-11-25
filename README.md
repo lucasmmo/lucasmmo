@@ -1,4 +1,4 @@
-### ✋ E aí? Me chamo Lucas, mais conhecido como Luke.
+### ✋ E aí? Me chamo Lucas, mas pode me chamar de Luke.
 
 - 🔭 Estou trabalhando atualmente com SRE/DEVOPS
 - 🌱 Estudando sobre: Arquitetura Limpa e Orientada à Eventos, visando redução de custo, manutenibilidade e disponibilidade 
