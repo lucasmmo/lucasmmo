@@ -1,8 +1,11 @@
 ### ✋ E aí? Me chamo Lucas, mas pode me chamar de Luke.
 
-- 🔭 Estou trabalhando atualmente com SRE/DEVOPS
-- 🌱 Estudando sobre: Arquitetura Limpa e Orientada à Eventos, visando redução de custo, manutenibilidade e disponibilidade 
+- 🔭 Estou trabalhando atualmente com CSE (Cloud Security Engineering)
+- 🌱 Estudando sobre: 
+  - Arquiteturas e Orientada à Segurança visando os três pilares, visando redução de custo e manutenibilidade.
+  - Monitoria e Governança de Clouds públicas
 - 😍 Jogos, Animes, Novas Tecnologias 
+- 😎 NEOVIM USER
 - 😄 ele/dele
 - ☁️ Tenho um sonho de fazer conteúdos sobre tecnologia
 
